@@ -1,0 +1,10 @@
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\bin\Release\ActualizarListas.exe.config
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\obj\Release\ActualizarListas.csproj.ResolveComReference.cache
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\bin\Release\ActualizarListas.exe
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\bin\Release\ActualizarListas.pdb
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\obj\Release\ActualizarListas.exe
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\obj\Release\ActualizarListas.pdb
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\bin\Release\SpreadsheetLight.dll
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\bin\Release\SpreadsheetLight.xml
+C:\Users\Nuñez Cuevas\Desktop\ActualizarListas\ActualizarListas\obj\Release\ActualizarListas.csprojResolveAssemblyReference.cache
